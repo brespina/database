@@ -3,7 +3,11 @@ from sqlalchemy import create_engine
 
 # List of file paths
 file_paths = [
-    "C:\\Users\\Windows\\Downloads\\College.xlsx",
+    "C:\\Users\\Windows\\Downloads\\SampleData\\College.xlsx",
+    "C:\\Users\\Windows\\Downloads\\SampleData\\SampleData.xlsx",
+    "C:\\Users\\Windows\\Downloads\\SampleData\\sampledatafoodsales.xlsx",
+    "C:\\Users\\Windows\\Downloads\\SampleData\\sampledatafootballplayers.xlsx",
+    "C:\\Users\\Windows\\Downloads\\SampleData\\sampledatainsurance.xlsx",
 ]
 
 # Updated database URL
